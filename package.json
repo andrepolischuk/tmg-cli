@@ -1,0 +1,22 @@
+{
+  "name": "tmg-cli",
+  "description": "Timer generator",
+  "version": "0.0.0",
+  "keywords": [
+    "timer",
+    "generator",
+    "cli"
+  ],
+  "repository": "andrepolischuk/tmg-cli",
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "meow": "^3.3.0",
+    "moment": "^2.9.0",
+    "tmg": "^0.5.0"
+  },
+  "bin": {
+    "tmg": "cli.js"
+  },
+  "author": "Andrey Polischuk <andre.polischuk@gmail.com>",
+  "license": "MIT"
+}
