@@ -1,7 +1,7 @@
 {
   "name": "tmg-cli",
   "description": "Timer generator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "keywords": [
     "timer",
     "generator",
